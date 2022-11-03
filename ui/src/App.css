@@ -1,0 +1,25 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+#root {
+  border-radius: 0.5em;
+  max-width: 800px;
+  background-color: #c7d2d7;
+}
+
+.hero {
+  background-color: #6a8085;
+}
